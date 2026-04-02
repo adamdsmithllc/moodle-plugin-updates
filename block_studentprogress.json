@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "block_studentprogress",
-        "version": "2026031400",
-        "release": "1.0.1",
+        "version": "2026031401",
+        "release": "1.0.2",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-block_studentprogress/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-block_studentprogress",
-        "versionphp": "2026031400"
+        "versionphp": "2026031401"
     },
     "versions": [
+        {
+            "version": "2026031401",
+            "release": "1.0.2",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-block_studentprogress/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026031400",
             "release": "1.0.1",
