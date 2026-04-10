@@ -1,0 +1,13 @@
+{
+    "status": "available",
+    "plugin": {
+        "component": "local_teacherhub",
+        "version": 2026041002,
+        "release": "0.1.0",
+        "requires": "2024042200",
+        "maturity": 50,
+        "download": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip",
+        "downloadmd5": "",
+        "url": "https://github.com/adamdsmithllc/moodle-local_teacherhub"
+    }
+}
