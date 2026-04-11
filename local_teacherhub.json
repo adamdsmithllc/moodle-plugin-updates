@@ -2,7 +2,7 @@
     "status": "available",
     "plugin": {
         "component": "local_teacherhub",
-        "version": 2026041008,
+        "version": 2026041009,
         "release": "0.2.0",
         "requires": "2024042200",
         "maturity": 50,
