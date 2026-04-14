@@ -3,8 +3,8 @@
     "component": "block_programmanager",
     "versions": [
       {
-        "version": 2026041405,
-        "release": "1.4.1",
+        "version": 2026041406,
+        "release": "1.4.2",
         "maturity": 100,
         "requires": 2024042200,
         "supported": [404, 501],
