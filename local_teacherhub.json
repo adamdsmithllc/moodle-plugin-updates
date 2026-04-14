@@ -2,8 +2,8 @@
     "status": "available",
     "plugin": {
         "component": "local_teacherhub",
-        "version": 2026041412,
-        "release": "0.2.1",
+        "version": 2026041413,
+        "release": "0.2.2",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip",
