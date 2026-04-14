@@ -3,8 +3,8 @@
     "component": "mod_catquiz",
     "versions": [
       {
-        "version": 2026041402,
-        "release": "2.4.0",
+        "version": 2026041403,
+        "release": "2.4.1",
         "maturity": 100,
         "requires": 2024042200,
         "supported": [404, 501],
