@@ -1,32 +1,15 @@
 {
-    "status": "available",
-    "plugin": {
-        "component": "mod_catquiz",
-        "version": "2026041400",
-        "release": "2.3.0",
-        "requires": "2024042200",
-        "maturity": 50,
-        "download": "https://github.com/adamdsmithllc/moodle-mod_catquiz/archive/refs/heads/main.zip",
-        "downloadmd5": "",
-        "url": "https://github.com/adamdsmithllc/moodle-mod_catquiz",
-        "versionphp": "2026041400"
-    },
+  "plugin": {
+    "component": "mod_catquiz",
     "versions": [
-        {
-            "version": "2026041400",
-            "release": "2.3.0",
-            "requires": "2024042200",
-            "maturity": 50,
-            "download": "https://github.com/adamdsmithllc/moodle-mod_catquiz/archive/refs/heads/main.zip",
-            "downloadmd5": ""
-        },
-        {
-            "version": "2026040500",
-            "release": "2.2.0",
-            "requires": "2024042200",
-            "maturity": 50,
-            "download": "https://github.com/adamdsmithllc/moodle-mod_catquiz/archive/refs/heads/main.zip",
-            "downloadmd5": ""
-        }
+      {
+        "version": 2026041401,
+        "release": "2.3.1",
+        "maturity": 100,
+        "requires": 2024042200,
+        "supported": [404, 501],
+        "downloadurl": "https://github.com/adamdsmithllc/moodle-mod_catquiz/archive/refs/heads/main.zip"
+      }
     ]
+  }
 }
