@@ -1,15 +1,13 @@
 {
-  "plugin": {
-    "component": "local_teacherhub",
-    "versions": [
-      {
+    "status": "available",
+    "plugin": {
+        "component": "local_teacherhub",
         "version": 2026041412,
         "release": "0.2.1",
+        "requires": "2024042200",
         "maturity": 50,
-        "requires": 2024042200,
-        "supported": [404, 501],
-        "downloadurl": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip"
-      }
-    ]
-  }
+        "download": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip",
+        "downloadmd5": "",
+        "url": "https://github.com/adamdsmithllc/moodle-local_teacherhub"
+    }
 }
