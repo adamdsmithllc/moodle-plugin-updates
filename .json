@@ -6,9 +6,9 @@
         "release": "",
         "requires": "2024042200",
         "maturity": 50,
-        "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
+        "download": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal/archive/refs/heads/main.zip",
         "downloadmd5": "",
-        "url": "https://github.com/adamdsmithllc/moodle-local_transcript",
+        "url": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal",
         "versionphp": ""
     },
     "versions": [
@@ -17,7 +17,7 @@
             "release": "",
             "requires": "2024042200",
             "maturity": 50,
-            "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
+            "download": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal/archive/refs/heads/main.zip",
             "downloadmd5": ""
         }
     ]
