@@ -1,0 +1,18 @@
+{
+  "plugin": {
+    "component": "mod_mhcat",
+    "versions": [
+      {
+        "version": 2026042110,
+        "release": "0.2.0-dev",
+        "maturity": 50,
+        "requires": 2024042200,
+        "supported": [
+          404,
+          501
+        ],
+        "downloadurl": "https://github.com/adamdsmithllc/moodle-meetinghouse-suite/archive/refs/heads/main.zip"
+      }
+    ]
+  }
+}
