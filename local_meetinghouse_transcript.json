@@ -3,8 +3,8 @@
     "component": "local_meetinghouse_transcript",
     "versions": [
       {
-        "version": 2026042121,
-        "release": "0.2.0-dev",
+        "version": 2026042140,
+        "release": "0.2.1-dev",
         "maturity": 50,
         "requires": 2024042200,
         "supported": [
