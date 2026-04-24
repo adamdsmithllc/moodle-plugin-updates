@@ -2,36 +2,44 @@
     "status": "available",
     "plugin": {
         "component": "local_transcript",
-        "version": "2026042302",
-        "release": "1.3.24",
-        "requires": "2024042200",
-        "maturity": 50,
+        "version": 2026042304,
+        "release": "1.3.26",
+        "requires": 2024042200,
+        "maturity": 100,
         "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-local_transcript",
-        "versionphp": "2026042302"
+        "versionphp": "2026042304"
     },
     "versions": [
         {
-            "version": "2026042302",
+            "version": 2026042304,
+            "release": "1.3.26",
+            "requires": 2024042200,
+            "maturity": 100,
+            "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
+        {
+            "version": 2026042302,
             "release": "1.3.24",
-            "requires": "2024042200",
+            "requires": 2024042200,
             "maturity": 50,
             "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
             "downloadmd5": ""
         },
         {
-            "version": "2026042301",
+            "version": 2026042301,
             "release": "1.3.23",
-            "requires": "2024042200",
+            "requires": 2024042200,
             "maturity": 50,
             "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
             "downloadmd5": ""
         },
         {
-            "version": "2026042300",
+            "version": 2026042300,
             "release": "1.3.22",
-            "requires": "2024042200",
+            "requires": 2024042200,
             "maturity": 50,
             "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
             "downloadmd5": ""

@@ -1,15 +1,32 @@
 {
-  "plugin": {
-    "component": "block_programmanager",
-    "versions": [
-      {
-        "version": 2026041416,
-        "release": "1.5.2",
-        "maturity": 100,
+    "status": "available",
+    "plugin": {
+        "component": "block_programmanager",
+        "version": 2026042304,
+        "release": "1.10.0",
         "requires": 2024042200,
-        "supported": [404, 501],
-        "downloadurl": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip"
-      }
+        "maturity": 100,
+        "download": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip",
+        "downloadmd5": "",
+        "url": "https://github.com/adamdsmithllc/moodle-block_programmanager",
+        "versionphp": "2026042304"
+    },
+    "versions": [
+        {
+            "version": 2026042304,
+            "release": "1.10.0",
+            "requires": 2024042200,
+            "maturity": 100,
+            "download": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
+        {
+            "version": 2026041416,
+            "release": "1.5.2",
+            "requires": 2024042200,
+            "maturity": 100,
+            "download": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        }
     ]
-  }
 }

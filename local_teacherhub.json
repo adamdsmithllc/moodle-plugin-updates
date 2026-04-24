@@ -4,10 +4,21 @@
         "component": "local_teacherhub",
         "version": 2026041904,
         "release": "0.3.15",
-        "requires": "2024042200",
+        "requires": 2024042200,
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip",
         "downloadmd5": "",
-        "url": "https://github.com/adamdsmithllc/moodle-local_teacherhub"
-    }
+        "url": "https://github.com/adamdsmithllc/moodle-local_teacherhub",
+        "versionphp": "2026041904"
+    },
+    "versions": [
+        {
+            "version": 2026041904,
+            "release": "0.3.15",
+            "requires": 2024042200,
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-local_teacherhub/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        }
+    ]
 }
