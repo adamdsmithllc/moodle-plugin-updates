@@ -1,0 +1,18 @@
+{
+  "plugin": {
+    "component": "local_meetinghouse_register",
+    "versions": [
+      {
+        "version": 2026061500,
+        "release": "0.1.0",
+        "maturity": 50,
+        "requires": 2024042200,
+        "supported": [
+          404,
+          501
+        ],
+        "downloadurl": "https://github.com/adamdsmithllc/moodle-meetinghouse-suite/archive/refs/heads/main.zip"
+      }
+    ]
+  }
+}
