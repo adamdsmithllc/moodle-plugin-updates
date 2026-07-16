@@ -1,0 +1,5 @@
+# Repo-internal guidance — never part of the published Pages feed.
+# pages.yml uploads the repo root verbatim, so an accidental `git add .`
+# would deploy this to a world-readable URL.
+CLAUDE.md
+.DS_Store
