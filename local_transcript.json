@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "local_transcript",
-        "version": "2026071703",
-        "release": "1.27.4",
+        "version": "2026071704",
+        "release": "1.28.0",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-local_transcript",
-        "versionphp": "2026071703"
+        "versionphp": "2026071704"
     },
     "versions": [
+        {
+            "version": "2026071704",
+            "release": "1.28.0",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-local_transcript/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026071703",
             "release": "1.27.4",
