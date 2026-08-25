@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "block_programmanager",
-        "version": "2026082400",
-        "release": "1.44.0",
+        "version": "2026082500",
+        "release": "1.44.1",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-block_programmanager",
-        "versionphp": "2026082400"
+        "versionphp": "2026082500"
     },
     "versions": [
+        {
+            "version": "2026082500",
+            "release": "1.44.1",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-block_programmanager/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026082400",
             "release": "1.44.0",
