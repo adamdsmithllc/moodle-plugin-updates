@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "block_teacherpanel",
-        "version": "2026082504",
-        "release": "1.6.1",
+        "version": "2026082601",
+        "release": "1.7.0",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-block_teacherpanel/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-block_teacherpanel",
-        "versionphp": "2026082504"
+        "versionphp": "2026082601"
     },
     "versions": [
+        {
+            "version": "2026082601",
+            "release": "1.7.0",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-block_teacherpanel/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026082504",
             "release": "1.6.1",
