@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "block_coordinatorportal",
-        "version": "2026042901",
-        "release": "1.2.7",
+        "version": "2026082700",
+        "release": "1.2.8",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal",
-        "versionphp": "2026042901"
+        "versionphp": "2026082700"
     },
     "versions": [
+        {
+            "version": "2026082700",
+            "release": "1.2.8",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-block_coordinatorportal/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026042901",
             "release": "1.2.7",
