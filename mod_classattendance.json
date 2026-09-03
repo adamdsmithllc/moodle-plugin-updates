@@ -2,16 +2,24 @@
     "status": "available",
     "plugin": {
         "component": "mod_classattendance",
-        "version": "2026081201",
-        "release": "0.5.23",
+        "version": "2026090300",
+        "release": "0.6.0",
         "requires": "2024042200",
         "maturity": 50,
         "download": "https://github.com/adamdsmithllc/moodle-mod_classattendance/archive/refs/heads/main.zip",
         "downloadmd5": "",
         "url": "https://github.com/adamdsmithllc/moodle-mod_classattendance",
-        "versionphp": "2026081201"
+        "versionphp": "2026090300"
     },
     "versions": [
+        {
+            "version": "2026090300",
+            "release": "0.6.0",
+            "requires": "2024042200",
+            "maturity": 50,
+            "download": "https://github.com/adamdsmithllc/moodle-mod_classattendance/archive/refs/heads/main.zip",
+            "downloadmd5": ""
+        },
         {
             "version": "2026081201",
             "release": "0.5.23",
